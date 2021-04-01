@@ -8,28 +8,28 @@ Project : Covid19 Data Analysis using data science concepts.
 
 # How to install Jupyter notebook in your system
 
-1. Install latest version of python ''' https://www.python.org/downloads/ '''
+1. Install latest version of python ``` https://www.python.org/downloads/ ```
 2. Now we need to install Anaconda Navigator. Go to this link and download Anaconda3 w.r.t system OS.
- '''
+ ```
  https://www.anaconda.com/products/individual
- '''
+ ```
  3. We can search Jupyter notebook in start menu and Start Anaconda 3 Terminal.
  4. You will be redireected towards Jupyter notebook on your Google Chrome.  
 
 Source of datasets : 
-1. Covid 19 data : ''' https://www.covid19india.org '''
-2. Temperature data : ''' https://www.accuweather.com/en/in/mumbai/204842/january-weather/204842 '''
-3. Covid active case data : ''' https://prsindia.org/covid-19/cases '''
+1. Covid 19 data : ``` https://www.covid19india.org ```
+2. Temperature data : ``` https://www.accuweather.com/en/in/mumbai/204842/january-weather/204842 ```
+3. Covid active case data : ``` https://prsindia.org/covid-19/cases ```
 
 #### In order to install various libraries we can use following command :
 
-'''
+```
 pip install pandas
 pip install matplotlib.pyplot
 pip install numpy
 pip install seaborn
 ...
-'''
+```
 
 # Getting stated with Jupyter Notebook : 
 - Open Anaconda3 Terminal which will redirect itself to Jupyter notebook.
