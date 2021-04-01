@@ -45,6 +45,8 @@ pip install seaborn
 # Temperature data analysis w.r.t Month-Year (Statewise)
 <img src="https://github.com/BhushanKolhe1920/covid19_data_analysis_active_cases_Temperature_data_visualization/blob/main/Images/1.PNG">
 
+# Only For educational learnings this project is created.
+
 From this educational data, we can conclude that 
 #### 1. In Maharashtra region, decrease in covid cases and decrease in temperature  Both are parallel
 #### 2. In Kerala region, Decrease in covid cases and at  same time we can see rise in temperature
@@ -54,3 +56,9 @@ From this educational data, we can conclude that
 #### Hence rise and fall in temperature is sometime related to active cases increment. But it is not linear as we can see in above graphs.
 #### From above data we can conclude that temperature cannont be major factor for incrase or decrease in covid cases.
 #### However from biological study, temperature of human body is related to covid test.
+
+# Contact Details:
+
+Bhushan Bhagwat Kolhe <br>
+bhushank1920@gmail.com  <br>
+Don Bosco Institute Of Technology, Mumbai.
